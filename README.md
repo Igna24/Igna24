@@ -1,7 +1,7 @@
   <div id="header" align="center">
     <img src="" alt="">
     <h1 align="center"> Hi, I'm Ignacio</h1>
-    <h3 align="center">I am an experienced worker who looks for better opportunities to grow up in a personal and professional way within a company to reach a common success.</h3>
+    <h3 align="center">As a web design and development student at CETAV, I am dedicated to honing my skills and staying ahead of industry trends. My focus is on delivering exceptional web solutions. I am enthusiastic about collaborating with teams, contributing my creativity, and striving for success in every project.</h3>
   </div>
   
   ---
