@@ -42,3 +42,4 @@
 ### My Stats : 
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=Igna24&theme=transparent)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igna24&hide_progress=true)](https://github.com/Igna24/github-readme-stats)
