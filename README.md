@@ -1,4 +1,8 @@
-### Hi there 👋
+  <div id="header" align="center">
+    <img src="" alt="">
+    <h1 align="center"> Hi, I'm Ignacio</h1>
+    <h3 align="center">sobre mi</h3>
+  </div>
 
 <!--
 **Igna24/Igna24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
