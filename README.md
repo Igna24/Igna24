@@ -41,6 +41,4 @@
 
 ### My Stats : 
 
-<div align="center">
   [![GitHub Streak](https://streak-stats.demolab.com?user=Igna24&theme=transparent)](https://git.io/streak-stats)
-</div>
