@@ -3,7 +3,8 @@
     <h1 align="center"> Hi, I'm Ignacio</h1>
     <h3 align="center">I am an experienced worker who looks for better opportunities to grow up in a personal and professional way within a company to reach a common success.</h3>
   </div>
- ---
+  ---
+  
  ### About Me:
  
  - 🔭 Currently, I am studying web design and development at CETAV
