@@ -9,7 +9,7 @@
   ### About Me:
   
   - 🔭 Currently, I am studying web design and development at CETAV
-  - 💬 Ask me about HTML, CSS, Javascript
+  - 💬 Ask me about HTML, Javascript, React
   - 📫 How to reach me: ignaciomaringarro@gmail.com
   - 🌱 I’m currently learning Javascript, Python
 
